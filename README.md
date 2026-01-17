@@ -1,23 +1,26 @@
 <!-- Template:
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
+
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Sara Aly. I'm a student developer who builds small prototypes and HCI experiments. I enjoy working on game prototypes, HCI demos, and practical utilities that solve everyday problems.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Not specified
+- 🎓 Education: The College of New Jersey — B.S. in Computer Science (attended ~2020–2024)
+- 📅 Hacking Since: 2021
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 [FoodDecisionMaker](https://github.com/saraaly01/FoodDecisionMaker) — Helps indecisive TCNJ students pick their next off-campus meal by prompting for cuisine and price range, then returning a restaurant and distance. (C++)
+- 🛠️ FightForFairWages — Private Ruby project focused on fair-wage tooling and advocacy (private; created Feb 2023). (Ruby)
+- 🤖 PROJECTSSALY — Personal C++ project collection (private; created Nov 2021). (C++)
+- 🎮 [HCIPopCardGames](https://github.com/saraaly01/HCIPopCardGames) — HCI-focused card game prototypes and demos. (Python)
+- 🔗 [Profile repo](https://github.com/saraaly01/saraaly01) — Personal profile and repository for links and small demos. (Various)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
+- 🧰 Languages: C++, Python, Ruby
+- 🔭 Focus: Human–Computer Interaction, Game Prototyping, Small Utilities
+- ❤️ Interests: Food tech, Accessibility, UX Design
 -->
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
