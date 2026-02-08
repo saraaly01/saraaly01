@@ -1,24 +1,24 @@
-<!-- Template:
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Sara Aly. I'm a Software Engineer at Prudential Financial. I work on web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Not specified
+- 🎓 Education: Computer Science at The College of New Jersey
+- 📅 Hacking Since: 2021
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 HCIPopCardGames — HCI card-game prototypes and interaction research. (Python) — https://github.com/saraaly01/HCIPopCardGames
+- 🛠️ skills-hello-github-actions — Exercise: Create and run a GitHub Actions workflow. (JavaScript) — https://github.com/saraaly01/skills-hello-github-actions
+- ☁️ skills-deploy-to-azure — Example repository demonstrating deployment to Azure. (JavaScript) — https://github.com/saraaly01/skills-deploy-to-azure
+- 🍽️ FoodDecisionMaker — Help for TCNJ students to pick nearby meals (CLI/program). (C++) — https://github.com/saraaly01/FoodDecisionMaker
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: Python, JavaScript (Node), C++, Ruby, HTML/CSS
+- 🔭 Focus: HCI & interaction design, web services & DevOps (GitHub Actions, Docker), cloud deployment (Azure)
+- ❤️ Interests: Hackathons, UX & accessibility, machine learning, open source collaboration
+
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
