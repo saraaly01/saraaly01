@@ -1,24 +1,22 @@
-<!-- Template:
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Sara Aly. I'm a Software Engineer at Prudential Financial. I work on web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: US
+- 🎓 Education: The College of New Jersey, Computer Science
+- 📅 Hacking Since: 2020
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 [skills-publish-docker-images](https://github.com/saraaly01/skills-publish-docker-images) — Exercise: Publish Docker Images (JavaScript)
+- 🛠️ [faiiled-raimbow-app](https://github.com/saraaly01/faiiled-raimbow-app) — website rng (TypeScript)
+- 🤖 [FoodDecisionMaker](https://github.com/saraaly01/FoodDecisionMaker) — The program helps indecisive TCNJ students pick their next meal off campus by prompting them to pick a cuisine and price range. A restaurant and the distance are outputted. This program is also useful for freshman as it introduces them to food places near. (C++)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: JavaScript, TypeScript, C++, Python
+- 🔭 Focus: Web Development, Hackathon Projects
+- ❤️ Interests: Open Source, Machine Learning, Creative Coding
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
